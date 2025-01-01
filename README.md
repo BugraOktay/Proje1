@@ -3,5 +3,5 @@ Bir üniversitede açılan proje dersleri için talep-kriter temelinde öğrenci
 en uygun seçimlerin yapılması hedeflenmektedir.
 Proje sayesinde öğrencilerin veri tabanı dersinde edindikleri bilgilerin pekştirilmesi, veritabanı tasarımı ve sorgu yazma becerilerinin gelişimiyle birlikte pratik sağlamaları amaçlanmaktadır.
 
-[![Video Thumbnail](images/thumbnail.png)](https://www.youtube.com/watch?v=46loaT2RAP0)
+[Uygulamanın Youtube Video Linki](https://www.youtube.com/watch?v=46loaT2RAP0)
 
